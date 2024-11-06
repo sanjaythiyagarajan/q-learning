@@ -27,8 +27,8 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 ## Q LEARNING FUNCTION
 
-### Name: Sri Varshan P
-### Register Number : 212222240104
+### Name: SANJAY T
+### Register Number : 212222110039
 
 ```py
 def q_learning(env,
